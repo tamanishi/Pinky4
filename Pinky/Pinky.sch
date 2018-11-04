@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:petit_split-cache
+LIBS:Pinky-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1137,10 +1137,10 @@ F 3 "~" H 2680 3670 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x01 J2
+L Connector_Generic:Conn_01x01 P1
 U 1 1 5BFC5069
 P 2375 3320
-F 0 "J2" V 2341 3232 50  0000 R CNN
+F 0 "P1" V 2341 3232 50  0000 R CNN
 F 1 "i2c-pin" V 2475 3450 50  0000 R CNN
 F 2 "kbd:1pin_conn" H 2375 3320 50  0001 C CNN
 F 3 "~" H 2375 3320 50  0001 C CNN
@@ -1152,10 +1152,10 @@ Wire Wire Line
 Wire Wire Line
 	1855 3670 2375 3670
 $Comp
-L Connector_Generic:Conn_01x01 J3
+L Connector_Generic:Conn_01x01 P2
 U 1 1 5BFDAF4C
 P 2375 3870
-F 0 "J3" V 2248 3950 50  0000 L CNN
+F 0 "P2" V 2248 3950 50  0000 L CNN
 F 1 "i2c-pin" V 2339 3950 50  0000 L CNN
 F 2 "kbd:1pin_conn" H 2375 3870 50  0001 C CNN
 F 3 "~" H 2375 3870 50  0001 C CNN
