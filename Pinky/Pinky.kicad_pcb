@@ -2,8 +2,8 @@
 
   (general
     (thickness 1.6)
-    (drawings 151)
-    (tracks 32)
+    (drawings 150)
+    (tracks 11)
     (zones 0)
     (modules 79)
     (nets 57)
@@ -1808,7 +1808,7 @@
   )
 
   (module kbd:1pin_conn (layer F.Cu) (tedit 5BDEDCF8) (tstamp 5BE066A9)
-    (at 81.7 120.1)
+    (at 92.4 123.5)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5BFC5069)
@@ -1845,7 +1845,7 @@
   )
 
   (module kbd:1pin_conn (layer F.Cu) (tedit 5BDEDE8A) (tstamp 5BE066B7)
-    (at 81.7 123.3)
+    (at 92.4 126.7)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5BFDAF4C)
@@ -1882,7 +1882,7 @@
   )
 
   (module kbd:Jumper (layer F.Cu) (tedit 5BDEDCD8) (tstamp 5BE066C1)
-    (at 74.1 129.7 270)
+    (at 77.2 117.8 270)
     (path /5BFC1B4A)
     (attr smd)
     (fp_text reference JP1 (at -2.413 0.127 270) (layer F.SilkS) hide
@@ -1907,7 +1907,7 @@
   )
 
   (module kbd:ResetSW (layer F.Cu) (tedit 5B9559E6) (tstamp 5BE066D5)
-    (at 77.8 133.7 180)
+    (at 88.9 132.6 180)
     (path /5BC2BB1A)
     (fp_text reference SW1 (at 0 2.55 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2284,7 +2284,7 @@
   )
 
   (module kbd:ProMicro_v2 (layer F.Cu) (tedit 5B7FE439) (tstamp 5BE07033)
-    (at 56.5 125.4 90)
+    (at 59.3 125.8 90)
     (path /5BC2FDFC)
     (fp_text reference U1 (at -1.27 2.762) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2588,7 +2588,7 @@
   )
 
   (module kbd:R (layer F.Cu) (tedit 5AA6C8B2) (tstamp 5BDE80E1)
-    (at 76.6 120.075761)
+    (at 87.3 123.475761)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5BE7302A)
@@ -2627,7 +2627,7 @@
   )
 
   (module kbd:R (layer F.Cu) (tedit 5AA6C8B2) (tstamp 5BDE80F0)
-    (at 76.6 123.3)
+    (at 87.3 126.7)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5BE5F990)
@@ -2918,7 +2918,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE317A2)
-    (at 50.18 88.41)
+    (at 50 88.1)
     (path /5BD6F90B)
     (fp_text reference SW4 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3006,7 +3006,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE317EF)
-    (at 50 107.12)
+    (at 50 107.15)
     (path /5BD708BE)
     (fp_text reference SW5 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3094,7 +3094,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE3183C)
-    (at 68.89 49.98)
+    (at 69.05 49.98)
     (path /5BC30175)
     (fp_text reference SW6 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3182,7 +3182,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31889)
-    (at 68.7 69.24)
+    (at 69.05 69.05)
     (path /5BC302DC)
     (fp_text reference SW7 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3270,7 +3270,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE318D6)
-    (at 69.45 88.16)
+    (at 69.05 88.1)
     (path /5BD70F56)
     (fp_text reference SW8 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3358,7 +3358,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31923)
-    (at 68.7 107.42)
+    (at 69.05 107.15)
     (path /5BD71F0E)
     (fp_text reference SW9 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3446,7 +3446,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31970)
-    (at 88.34 48.1)
+    (at 88.1 48.095)
     (path /5BDBC8C1)
     (fp_text reference SW10 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3534,7 +3534,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE319BD)
-    (at 87.78 67.21)
+    (at 88.1 67.145)
     (path /5BDBCD8D)
     (fp_text reference SW11 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3622,7 +3622,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31A0A)
-    (at 87.97 86.22)
+    (at 88.1 86.195)
     (path /5BDBDE28)
     (fp_text reference SW12 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3710,7 +3710,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31A57)
-    (at 87.23 105.13)
+    (at 88.1 105.245)
     (path /5BDBE802)
     (fp_text reference SW13 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3798,7 +3798,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31AA4)
-    (at 107.05 44.26)
+    (at 107.15 44.26)
     (path /5BDBD460)
     (fp_text reference SW14 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3886,7 +3886,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31AF1)
-    (at 106.86 63.25)
+    (at 107.15 63.335)
     (path /5BDBD8D0)
     (fp_text reference SW15 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3974,7 +3974,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31B3E)
-    (at 107.23 82.48)
+    (at 107.15 82.385)
     (path /5BDBE29C)
     (fp_text reference SW16 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4062,7 +4062,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31B8B)
-    (at 107.79 100.63)
+    (at 107.15 101.435)
     (path /5BDBECBA)
     (fp_text reference SW17 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4150,7 +4150,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31BD8)
-    (at 125.94 47.87)
+    (at 126.2 48.095)
     (path /5BDBFF35)
     (fp_text reference SW19 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4238,7 +4238,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31C25)
-    (at 126.5 67.18)
+    (at 126.2 67.145)
     (path /5BDC050F)
     (fp_text reference SW20 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4326,7 +4326,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31C72)
-    (at 126.68 85.94)
+    (at 126.2 86.195)
     (path /5BDC09AE)
     (fp_text reference SW21 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4414,7 +4414,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31CBF)
-    (at 126.13 105.47)
+    (at 126.2 105.245)
     (path /5BDC0E41)
     (fp_text reference SW22 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4502,7 +4502,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31D0C)
-    (at 145.39 52.05)
+    (at 145.25 51.905)
     (path /5BDC2CE2)
     (fp_text reference SW24 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4590,7 +4590,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31D59)
-    (at 145.39 70.75)
+    (at 145.25 70.955)
     (path /5BDC2CE9)
     (fp_text reference SW25 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4678,7 +4678,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31DA6)
-    (at 145.39 90.13)
+    (at 145.25 90.005)
     (path /5BDC2CF0)
     (fp_text reference SW26 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4766,7 +4766,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31DF3)
-    (at 145.02 108.79)
+    (at 145.25 109.055)
     (path /5BDC2CF7)
     (fp_text reference SW27 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4854,7 +4854,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31E40)
-    (at 164.29 55.57)
+    (at 164.29 55.715)
     (path /5BF7CE02)
     (fp_text reference SW29 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4942,7 +4942,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31E8D)
-    (at 164.47 74.6)
+    (at 164.3 74.765)
     (path /5BF7CE09)
     (fp_text reference SW30 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5030,7 +5030,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31EDA)
-    (at 164.47 93.63)
+    (at 164.3 93.815)
     (path /5BF7CE10)
     (fp_text reference SW31 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5118,12 +5118,12 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5B8833C8) (tstamp 5BE31F27)
-    (at 167.44 120.04)
+    (at 166.85 119.77 337)
     (path /5BF7CE17)
-    (fp_text reference SW32 (at 7.1 8.2) (layer F.SilkS) hide
+    (fp_text reference SW32 (at 7.1 8.2 337) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SW_PUSH (at -5.3 -8.1) (layer F.Fab) hide
+    (fp_text value SW_PUSH (at -5.3 -8.1 337) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 7 7) (end 7 -7) (layer F.Fab) (width 0.15))
@@ -5188,20 +5188,20 @@
     (fp_line (start -5.7 -1.3) (end -3 -1.3) (layer B.SilkS) (width 0.5))
     (fp_line (start 4.4 -6.4) (end 3 -6.4) (layer B.SilkS) (width 0.4))
     (fp_line (start 4.4 -3.9) (end 4.4 -3.2) (layer B.SilkS) (width 0.4))
-    (pad 2 smd rect (at 5.7 -5.12 180) (size 2.3 2) (layers B.Cu B.Paste B.Mask)
+    (pad 2 smd rect (at 5.7 -5.12 157) (size 2.3 2) (layers B.Cu B.Paste B.Mask)
       (net 33 "Net-(D31-Pad2)"))
-    (pad "" np_thru_hole circle (at -5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (pad "" np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-    (pad "" np_thru_hole circle (at 0 0 90) (size 4 4) (drill 4) (layers *.Cu *.Mask F.SilkS))
-    (pad "" np_thru_hole circle (at 2.54 -5.08 180) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole circle (at 3.81 -2.540001 180) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole circle (at -2.54 -5.08 180) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole circle (at -3.81 -2.54 180) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad 2 smd rect (at -5.7 -5.12 180) (size 2.3 2) (layers F.Cu F.Paste F.Mask)
+    (pad "" np_thru_hole circle (at -5.08 0 337) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
+    (pad "" np_thru_hole circle (at 5.08 0 337) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
+    (pad "" np_thru_hole circle (at 0 0 67) (size 4 4) (drill 4) (layers *.Cu *.Mask F.SilkS))
+    (pad "" np_thru_hole circle (at 2.54 -5.08 157) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole circle (at 3.81 -2.540001 157) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole circle (at -2.54 -5.08 157) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole circle (at -3.81 -2.54 157) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad 2 smd rect (at -5.7 -5.12 157) (size 2.3 2) (layers F.Cu F.Paste F.Mask)
       (net 33 "Net-(D31-Pad2)"))
-    (pad 1 smd rect (at 7 -2.58 180) (size 2.3 2) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at 7 -2.58 157) (size 2.3 2) (layers F.Cu F.Paste F.Mask)
       (net 50 col6))
-    (pad 1 smd rect (at -7 -2.58 180) (size 2.3 2) (layers B.Cu B.Paste B.Mask)
+    (pad 1 smd rect (at -7 -2.58 157) (size 2.3 2) (layers B.Cu B.Paste B.Mask)
       (net 50 col6))
   )
 
@@ -5212,27 +5212,26 @@
   (gr_line (start 62.038821 114.119331) (end 62.038821 100.118631) (layer Dwgs.User) (width 0.2))
   (gr_line (start 42.988771 81.068631) (end 56.988321 81.068631) (layer Dwgs.User) (width 0.2))
   (gr_line (start 56.988321 56.969331) (end 42.988771 56.969331) (layer Dwgs.User) (width 0.2))
-  (gr_arc (start 41.3 41.9) (end 41.100001 40.900001) (angle -69.22774532) (layer Edge.Cuts) (width 0.2))
-  (gr_arc (start 173.2 47.4) (end 173.999999 47.300001) (angle -75.7499673) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 41.299999 41.599999) (end 41.1 40.6) (angle -69.22774532) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 173.199999 47.199999) (end 173.999998 47.1) (angle -75.7499673) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 181.700001 107.500001) (end 182.4 107.8) (angle -90) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 170.900001 155.000001) (end 170.500002 155.6) (angle -90) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 179.100001 140.5) (end 179.8 140.899999) (angle -90) (layer Edge.Cuts) (width 0.2))
-  (gr_arc (start 41 135.5) (end 40.3 135.5) (angle -90) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 41 135.6) (end 40.3 135.6) (angle -90) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 153.9 146.2) (end 155 146.7) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 171.799999 134.6) (end 171.2 134.300001) (angle -89.9999618) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 135.3 139.4) (end 137 140) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 116.1 136.2) (end 117.6 136.3) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 135.4 139.5) (end 137 140) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 155 146.7) (end 170.5 155.6) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 137 140) (end 153.9 146.2) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 117.6 136.3) (end 135.3 139.4) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 117.5 136.3) (end 135.4 139.5) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 179.8 140.9) (end 171.5 155.4) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 171.5 135.2) (end 179.5 139.8) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 182 106.8) (end 174 103.4) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 171.2 134.3) (end 182.4 107.8) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 174 47.3) (end 174 103.4) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 116.2 35.3) (end 173.3 46.6) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 174 47.1) (end 174 103.4) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 116.2 35.3) (end 173.3 46.4) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 98.1 35.3) (end 116.2 35.3) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 41.1 40.9) (end 98.1 35.3) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 41.1 40.6) (end 98.1 35.3) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 62.038821 42.969031) (end 76.038121 42.969031) (layer Dwgs.User) (width 0.2))
   (gr_line (start 42.988771 56.969331) (end 42.988771 42.969031) (layer Dwgs.User) (width 0.2))
   (gr_line (start 76.038121 100.118631) (end 76.038121 114.119331) (layer Dwgs.User) (width 0.2))
@@ -5354,37 +5353,16 @@
   (gr_line (start 42.988771 76.019331) (end 42.988771 62.018631) (layer Dwgs.User) (width 0.2))
   (gr_line (start 169.895121 152.843461) (end 176.896121 140.718131) (layer Dwgs.User) (width 0.2))
   (gr_line (start 157.674121 123.470431) (end 170.561121 128.941231) (layer Dwgs.User) (width 0.2))
-  (gr_line (start 40.3 135.5) (end 40.3 41.7) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 116.1 136.2) (end 41 136.2) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 40.3 135.6) (end 40.3 41.4) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 117.5 136.3) (end 41 136.3) (layer Edge.Cuts) (width 0.2))
 
-  (segment (start 59.6 117.5416) (end 59.802 117.7436) (width 0.25) (layer F.Cu) (net 5))
-  (segment (start 74.06 120.075761) (end 74.06 123.3) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 55.162 123.3) (end 50.912 119.05) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 74.06 123.3) (end 55.162 123.3) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 50.912 131.6936) (end 49.642 132.9636) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 50.912 119.05) (end 50.912 131.6936) (width 0.5) (layer F.Cu) (net 35))
+  (segment (start 59.6 117.5416) (end 59.802 117.7436) (width 0.25) (layer F.Cu) (net 4))
   (segment (start 156.67147 110.10853) (end 156.2 110.58) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 171.600116 103.708527) (end 169.091473 103.708527) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 172.523115 104.631526) (end 171.600116 103.708527) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 169.091473 103.708527) (end 166.6 106.2) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 166.6 106.2) (end 166.6 110.10853) (width 0.5) (layer F.Cu) (net 35))
   (segment (start 170.198266 110.10853) (end 166.6 110.10853) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 89.3 126.1) (end 76.86 126.1) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 113.5 113.8) (end 111.9 112.2) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 133.4 113.8) (end 113.5 113.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 137.4 117.8) (end 133.4 113.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 103.2 112.2) (end 89.3 126.1) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 149.1 117.8) (end 137.4 117.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 111.9 112.2) (end 103.2 112.2) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 152.1 114.8) (end 149.1 117.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 76.86 126.1) (end 74.06 123.3) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 156.2 114.8) (end 152.1 114.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 156.2 110.58) (end 156.2 114.8) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 166.6 110.10853) (end 158.1 110.10853) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 158.1 110.10853) (end 156.67147 110.10853) (width 0.5) (layer F.Cu) (net 35))
-  (via (at 158.1 107.300006) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 35))
-  (segment (start 158.1 110.10853) (end 158.1 107.300006) (width 0.5) (layer F.Cu) (net 35))
-  (segment (start 156.299994 105.5) (end 158.1 107.300006) (width 0.5) (layer B.Cu) (net 35))
   (segment (start 156.2 105.5) (end 156.299994 105.5) (width 0.5) (layer B.Cu) (net 35))
   (segment (start 51.575 60) (end 51.4 60) (width 0.25) (layer F.Cu) (net 42))
   (segment (start 51.2 60) (end 51.375 60) (width 0.25) (layer F.Cu) (net 42))
