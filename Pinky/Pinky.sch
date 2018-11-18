@@ -1165,43 +1165,6 @@ $EndComp
 Connection ~ 2375 3670
 Wire Wire Line
 	2375 3670 2380 3670
-Text GLabel 1205 1445 0    50   Input ~ 0
-led
-$Comp
-L Connector_Generic:Conn_01x03 J4
-U 1 1 5BE2F8C9
-P 1680 5905
-F 0 "J4" H 1600 5580 50  0000 C CNN
-F 1 "LED" H 1600 5671 50  0000 C CNN
-F 2 "kbd:StripLED_rev" H 1680 5905 50  0001 C CNN
-F 3 "~" H 1680 5905 50  0001 C CNN
-	1    1680 5905
-	-1   0    0    1   
-$EndComp
-Text GLabel 1880 5905 2    50   Input ~ 0
-led
-$Comp
-L power:GND #PWR010
-U 1 1 5BE3304A
-P 1880 6005
-F 0 "#PWR010" H 1880 5755 50  0001 C CNN
-F 1 "GND" H 1885 5832 50  0000 C CNN
-F 2 "" H 1880 6005 50  0001 C CNN
-F 3 "" H 1880 6005 50  0001 C CNN
-	1    1880 6005
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR09
-U 1 1 5BE339D9
-P 1880 5805
-F 0 "#PWR09" H 1880 5655 50  0001 C CNN
-F 1 "VCC" H 1897 5978 50  0000 C CNN
-F 2 "" H 1880 5805 50  0001 C CNN
-F 3 "" H 1880 5805 50  0001 C CNN
-	1    1880 5805
-	1    0    0    -1  
-$EndComp
 Text GLabel 1205 1845 0    50   Input ~ 0
 sda
 Text GLabel 1205 1945 0    50   Input ~ 0
@@ -1254,4 +1217,5 @@ F 3 "~" H 3090 5920 50  0001 C CNN
 	1    3090 5920
 	1    0    0    -1  
 $EndComp
+NoConn ~ 1205 1445
 $EndSCHEMATC
