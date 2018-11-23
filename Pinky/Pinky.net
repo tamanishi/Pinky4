@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/msyksnhr/forKicad/Pinky/Pinky/Pinky.sch)
-    (date "2018 November 17, Saturday 21:18:20")
+    (date "Tuesday, 20 November 2018 at 08:36:08")
     (tool "Eeschema (5.0.1-3-g963ef8bb5)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
