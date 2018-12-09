@@ -1,3 +1,6 @@
 .DS_Store
 *.bak
+*.zip
 *.kicad_pcb-bak
+/pcb/gerber/
+
