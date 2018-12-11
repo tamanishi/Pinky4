@@ -2,5 +2,5 @@
 *.bak
 *.zip
 *.kicad_pcb-bak
-/pcb/gerber/
+gerber/
 
