@@ -4,6 +4,8 @@ A split 4 x 7 vertical ortholinear and 4 thumb keys keyboard.
 An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](https://github.com/kata0510/Lily58), [Ergo42](https://github.com/Biacco42/Ergo42) and [Helix](https://github.com/MakotoKurauchi/helix).  
 Pinky4 is designed for PoC.
 
+![image](image.jpg)
+
 # Pcb & Plates
 TBA
 <!-- ![pcb](pcb/Pinky3-pcb.png)
@@ -36,6 +38,6 @@ TBA
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
 
 ## TODOs
-- [ ] add images (finished product, pcb, plates and parts?)
+- [x] add images
 - [x] add BOM
 - [ ] add build log
