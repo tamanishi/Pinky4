@@ -33,6 +33,8 @@ Pinky4 is designed for PoC.
 | 17 | 4mm M2 screws | 32 |
 | 18 | rubber cushions | 8 |
 
+# Notes
+![jumper](jumper.jpg)
 
 # Firmware
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
