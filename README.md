@@ -7,11 +7,9 @@ Pinky4 is designed for PoC.
 ![image](image.jpg)
 
 # Pcb & Plates
-TBA
-<!-- ![pcb](pcb/Pinky3-pcb.png)
-![top plate](top-plate/Pinky3-top-plate.png)
-![bottom plate](bottom-plate/Pinky3-bottom-plate.png) -->
-<!-- ![plates](plates/Pinky3-plates.png) -->
+![pcb](pcb/Pinky4-pcb.png)
+![top plate](top-plate/Pinky4-top-plate.png)
+![bottom plate](bottom-plate/Pinky4-bottom-plate.png)
 
 # Bill of Materials (for both hands)
 | # | name | qty |
@@ -33,6 +31,8 @@ TBA
 | 15 | 7mm M2 standoffs (for top and bottom plates) | 12 |
 | 16 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
 | 17 | 4mm M2 screws | 32 |
+| 18 | rubber cushions | 8 |
+
 
 # Firmware
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
