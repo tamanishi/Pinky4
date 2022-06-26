@@ -1,5 +1,8 @@
 # Pinky4
 
+> **Warning**  
+> If you are using Kicad 6, please see https://github.com/tamanishi/Pinky4/issues/4 .
+
 A split 4 x 7 vertically staggered keys and 4 thumb keys keyboard.  
 An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](https://github.com/kata0510/Lily58), [Ergo42](https://github.com/Biacco42/Ergo42) and [Helix](https://github.com/MakotoKurauchi/helix).  
 Pinky4 is designed for PoC.
